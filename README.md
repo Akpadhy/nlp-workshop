@@ -16,8 +16,8 @@ This repo contains notebooks introducing basic NLP concepts for anyone to start 
 	- pip install -U nltk
 5. Install nltk datasets
 	- import nltk; nltk.download()  
-	Corpora -> stopwords, wordnet, words
-	Models -> punkt, averaged_perceptron_tagger, maxent_ne_chunker
+	- Corpora -> [stopwords, wordnet, words] 
+	- Models -> [punkt, averaged_perceptron_tagger, maxent_ne_chunker]
 6. Install autocorrect
 	- pip install autocorrect 	
 7. Install Git https://git-scm.com/downloads
@@ -37,9 +37,8 @@ This repo contains notebooks introducing basic NLP concepts for anyone to start 
 	- pip install -U nltk
 6. Install nltk datasets
 	- import nltk; nltk.download()  
-	Corpora -> stopwords, wordnet, words
-	
-	Models -> punkt, averaged_perceptron_tagger, maxent_ne_chunker
+	- Corpora -> [stopwords, wordnet, words]
+	- Models -> [punkt, averaged_perceptron_tagger, maxent_ne_chunker]
 7. Install autocorrect
 	- pip install autocorrect 	
 8. Install Git https://git-scm.com/downloads
