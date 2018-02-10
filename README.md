@@ -17,7 +17,6 @@ This repo contains notebooks introducing basic NLP concepts for anyone to start 
 5. Install nltk datasets
 	- import nltk; nltk.download()  
 	Corpora -> stopwords, wordnet, words
-  	
 	Models -> punkt, averaged_perceptron_tagger, maxent_ne_chunker
 6. Install autocorrect
 	- pip install autocorrect 	
